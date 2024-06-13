@@ -6,7 +6,7 @@ Meu nome é Julia Silva
 - Estou me desenvolvendo na linguagem javaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projeto desenvolvidos
 
- ### você entrar em contatp comigo 📧
+ ### você entrar em contato comigo 📧
 
   00001130100212sp@al.educacap.sp.gov.br
   
